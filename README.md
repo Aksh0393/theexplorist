@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola, I am Kartik Sapra! 👋
 
-<!--
-**theexplorist/theexplorist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m a Google Summer Of Code 2019 accepted student developer by JBOSS Redhat Middleware.
+- 🌱 I have mentored students upto k - 12 for two years.
+- 👯 I am proficient with Java and its technologies.
+- 💬 Ask me your queries about open source and google summer of code.
+- 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/kartiksapra/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love seeing moon and stars.
+
+<img src = "https://github-readme-stats.vercel.app/api?username=theexplorist">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theexplorist">
