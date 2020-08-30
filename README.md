@@ -1,4 +1,4 @@
-<img src = "https://user-images.githubusercontent.com/36664705/91655747-eef84300-ea67-11ea-8d4d-8bc0df5a7201.jpg">
+<img src = "https://user-images.githubusercontent.com/36664705/91656069-7e9ef100-ea6a-11ea-87f7-ee3667b70d3f.png">
 
 ### Hola, I am Kartik Sapra! 👋
 
