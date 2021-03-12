@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/kartiksapra/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love seeing moon and stars.
+- Top 20 contributor in Redhat's [Fabric8 - Maven - Plugin](https://github.com/eclipse/jkube/blob/master/REBRANDING.md)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=theexplorist">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theexplorist">
